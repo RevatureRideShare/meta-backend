@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "meta-services": "https://github.com/RevatureRideShare/meta-services.git",
+    "meta-infrastructure": "https://github.com/RevatureRideShare/meta-infrastrucure.git"
+  }
+}
